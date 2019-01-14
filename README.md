@@ -1,5 +1,5 @@
 # TopArchDemo
-第2章的案例参考
+企业总体架构
 
 ## 新书上市：
 + 京东链接：https://item.jd.com/12477683.html
