@@ -158,3 +158,7 @@
 谈谈互联网公司的技术架构和管理
 短评
 </pre>
+
+## 文章链接
+InfoQ：https://www.infoq.cn/article/architecture-practice-09-enterprise-architecture
+博客园：https://www.cnblogs.com/dotnet-arch-system/
