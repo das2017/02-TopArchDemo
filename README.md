@@ -1,5 +1,7 @@
 # TopArchDemo
 企业总体架构
++ InfoQ文章链接：https://www.infoq.cn/article/architecture-practice-09-enterprise-architecture
++ 博客园文章链接：https://www.cnblogs.com/dotnet-arch-system/
 
 ## 新书上市：
 + 京东链接：https://item.jd.com/12477683.html
@@ -158,7 +160,3 @@
 谈谈互联网公司的技术架构和管理
 短评
 </pre>
-
-## 文章链接
-+ InfoQ：https://www.infoq.cn/article/architecture-practice-09-enterprise-architecture
-+ 博客园：https://www.cnblogs.com/dotnet-arch-system/
